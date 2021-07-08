@@ -30,7 +30,7 @@
 넌클릭 스위치는 내부 구조는 리니어와 유사하지만 청축처럼 걸쇠가 있기때문에 걸리는 느낌은 있지만 청축과는 구조가 달라서 큰소리는 나지 않습니다.(이미지는 체리사의 갈축입니다.)
 
 ## 3.무접점
-<img src="https://ww.namu.la/s/612ec4caaa3ee9b1d019ab3812d72f4c855dc5e0a1345c8df28a5d669af0d52e0857c22c953ddb3f412a6694fd99d7f6119bbed7d8a4051fe3ecb9fc2e191c8baa68c2cf9318a43eaa8b59e9016db1c75f6ca418fbd6e611bb9f7bc51954b503">
+<img src=https://namu.wiki/jump/tbBPeS7BxKqalaSKqDjWyrZKnKhgH7snVTJzUDXtd1K1f0FQVF%2BK19uHb5ginEgv0P8vnWgL6v%2FoNN4fxsnPBsqflfxz8Ue%2FETrmoaQJkb8%3D>
 
 
 무점점 키보드는 멤브레인처럼 러버돔을 쓰는 키보드 이지만 내부구조와 작동 방식이 다르다 러버돔 및에 스프링이 압력을 받으면 기판에서 전압을 감지해 입력이 되는 방식입니다.
